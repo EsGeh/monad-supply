@@ -10,7 +10,7 @@ Category:      Control, Data, Monads
 Author:        Geoff Hulette and unknown HaskellWiki contributor(s).
 Maintainer:    Geoff Hulette <geoff@hulette.net>
 Stability:     experimental
-Tested-With:   GHC == 8.2.2
+Tested-With:   GHC == 8.2.2, GHC == 8.6.1
 
 Library
   Exposed-modules: Control.Monad.Supply
